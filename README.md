@@ -4,14 +4,6 @@ React-Crypto-website
 Tech Stack
 React, HTML,CSS,API integration
 
-Running Tests
-To run tests, run the following command
-
-```bash
-  npm install
-```
-```bash
-  npm start
-```
+go to my website using https://react-crypto-iuefvklu8-parthasarathip123.vercel.app
 
 If you have any feedback, please reach out to us at parthasarathipthl@gmail.com
